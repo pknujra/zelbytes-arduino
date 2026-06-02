@@ -7,5 +7,5 @@
 2. Created a github repository named zelbutes-arduino
 3. Completed the led bilnk experiment
 4. Completed the serial hello sketch
-5. Created a README file , Docs/HARWARE file and the uploded the blink and serail code to the src file
+5. Created a README file , Docs/HARWARE file and the uploaded the blink and serial code to the src file
    
