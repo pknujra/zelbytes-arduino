@@ -19,6 +19,3 @@ const bool RELAY_ACTIVE_LOW = true; // true for active-low relay modules
 
 #endif
 
-void loop() {
-  // Your code
-}
