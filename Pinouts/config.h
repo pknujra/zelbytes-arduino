@@ -10,3 +10,15 @@ const unsigned long DEBOUNCE_MS = 50;
 
 #endif
 
+#ifndef CONFIG_H
+#define CONFIG_H
+
+// Relay Configuration
+const uint8_t RELAY_PIN = 8;       // Relay module input pin
+const bool RELAY_ACTIVE_LOW = true; // true for active-low relay modules
+
+#endif
+
+void loop() {
+  // Your code
+}
