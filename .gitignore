@@ -1,1 +1,7 @@
-
+build/
+*.hex
+*.eep
+.DS_Store
+Thumbs.db
+.vscode/settings.json
+secrets.h
