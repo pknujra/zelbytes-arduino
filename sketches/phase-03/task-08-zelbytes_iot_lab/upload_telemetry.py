@@ -4,7 +4,7 @@ import random
 
 API_KEY = "YOUR_API_KEY"
 
-URL = "https://careers.zelbytes.com/api/iot-lab/v1/telemetry"
+URL = "SERVER_URL"
 
 headers = {
     "Content-Type": "application/json",
